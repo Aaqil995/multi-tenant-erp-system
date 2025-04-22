@@ -31,8 +31,8 @@ A full-featured, multi-tenant ERP system built with Laravel 12, featuring advanc
 
 ## 📁 Project Setup
 
-### Clone the Repo
-```bash
+**Clone the Repo**
+
 git clone https://github.com/Aaqil995/multi-tenant-erp-system.git
 cd multi-tenant-erp-system
 
@@ -47,22 +47,23 @@ php artisan tenants:migrate
 
 php artisan serve
 
+---
 
-## 🎯 Learning Goals
+## 📚 Learning Goals
 
-- Master advanced Laravel concepts like:
-  - Multi-tenancy
-  - Service Container & Facades
-  - Laravel Octane
-  - Livewire, Inertia.js, and Vue.js integration
-- Apply OOP, MVC, and SOLID principles in a real project
-- Improve system design, project architecture, and code quality
-- Practice Laravel best practices for production-grade apps
+- Master Laravel service container & service providers
+- Understand multi-tenancy in Laravel with real example
+- Integrate Vue.js and Inertia with Laravel
+- Use Livewire for dynamic components
+- Write clean code using SOLID, OOP, MVC
+- Prepare for Laravel senior developer interviews
 
+---
 
 ## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
 
 
 ## 👨‍💻 Author
@@ -71,3 +72,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - GitHub: [@Aaqil995](https://github.com/Aaqil995)
 - Email: muhammadaaqil995@gmail.com
+
+
+
