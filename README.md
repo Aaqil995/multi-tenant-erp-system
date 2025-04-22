@@ -46,3 +46,28 @@ php artisan migrate --path=database/migrations/central
 php artisan tenants:migrate
 
 php artisan serve
+
+
+## 🎯 Learning Goals
+
+- Master advanced Laravel concepts like:
+  - Multi-tenancy
+  - Service Container & Facades
+  - Laravel Octane
+  - Livewire, Inertia.js, and Vue.js integration
+- Apply OOP, MVC, and SOLID principles in a real project
+- Improve system design, project architecture, and code quality
+- Practice Laravel best practices for production-grade apps
+
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+
+## 👨‍💻 Author
+
+**Muhammad Aaqil**
+
+- GitHub: [@Aaqil995](https://github.com/Aaqil995)
+- Email: muhammadaaqil995@gmail.com
