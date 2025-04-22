@@ -1,6 +1,6 @@
 # Multi-Tenant ERP System (Laravel 12)
 
-A full-featured, multi-tenant ERP system built with Laravel 11, featuring advanced concepts like Livewire, Inertia.js, Vue.js integration, Laravel Octane, service container patterns, custom roles & permissions, and more.
+A full-featured, multi-tenant ERP system built with Laravel 12, featuring advanced concepts like Livewire, Inertia.js, Vue.js integration, Laravel Octane, service container patterns, custom roles & permissions, and more.
 
 ---
 
